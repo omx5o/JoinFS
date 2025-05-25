@@ -1,3 +1,5 @@
+Active fork of JoinFS can be found here, https://github.com/tuduce/JoinFS/releases
+
 JoinFS is an advanced multiplayer client for flight simulators including Microsoft Flight Simulator 2020, FSX, X-Plane and Prepar3D. Allows players to fly together across different simulators.
 
 Disclaimer
